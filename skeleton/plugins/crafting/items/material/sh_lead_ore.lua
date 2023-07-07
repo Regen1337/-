@@ -1,0 +1,9 @@
+ITEM.name = "Lead Ore"
+ITEM.model = "models/props_mining/rock2_1.mdl"
+ITEM.description = "Lead ore used for crafting."
+ITEM.category = "Crafting Material"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.color = Color(108, 108, 106)
+ITEM.isOre = true
+ITEM.ore_chance = 6
