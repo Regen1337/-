@@ -166,6 +166,7 @@ if !(SERVER) then
                 row:SetFont("ixItemDescFont")
                 row:SetText(item:GetRarityName())
                 row:SetColor(item:GetRarityColor())
+                row:SetBackgroundColor(Color(0, 0, 0, 200))
         end
     end
 end
